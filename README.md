@@ -64,7 +64,7 @@ equipped with Git and CMake. One can then build the library and the audio
 plugin, by entering commands as follows:
 
 ```
-git clone https://github.com/jpcima/ysfx.git
+git clone https://github.com/RoBr-01/YSFX.git
 cd ysfx
 git submodule update --init --recursive
 mkdir build
